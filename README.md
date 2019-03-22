@@ -2,7 +2,9 @@
 This project was created at my first software internship back in 2014. It utilizes a WIMP stack hosted on a local machine running Windows and IIS. The system and mobile application allows regular users to unlock the front doors of the building if connected to the building WiFi, or an admin to unlock the door anywhere with an Internet connection. Usage data is tracked and the users and privileges are sourced from the building personnel directory. 
 
 ## Overview
-This README will describe each component of the Door Control System. They comprise of the following:  
+This README will describe each component of the Door Control System. They comprise of the following:
+
+
 **AutoIt Scripts  
 CBCMG Door Mobile Application  
 Desktop Tray Utility  
