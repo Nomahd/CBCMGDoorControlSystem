@@ -6,14 +6,10 @@ This README will describe each component of the Door Control System. They compri
 **AutoIt Scripts  
 CBCMG Door Mobile Application  
 Desktop Tray Utility  
-SQL Query  
 Web Server**
 
 ## AutoIt Scripts
 The scripts are used to perform window and mouse commands on the door security application program running on the host machine. 
-
-## SQL Script
-In Microsoft SQL Server 2012 (or similar), open the SQL script and execute to create the necessary database and tables.
 
 ## Web Server
 Place the WebApplication folder (inside the Web Server folder) in a location of your choosing (suggest C:\inetpub\www) and 
