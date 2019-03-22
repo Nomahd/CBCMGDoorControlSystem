@@ -3,11 +3,11 @@ This project was created at my first software internship back in 2014. It utiliz
 
 ## Overview
 This README will describe each component of the Door Control System. They comprise of the following:  
-AutoIt Scripts  
+**AutoIt Scripts  
 CBCMG Door Mobile Application  
 Desktop Tray Utility  
 SQL Query  
-Web Server  
+Web Server**
 
 ## AutoIt Scripts
 The scripts are used to perform window and mouse commands on the door security application program running on the host machine. 
