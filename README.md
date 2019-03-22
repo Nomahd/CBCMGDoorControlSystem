@@ -1,5 +1,5 @@
 # Open Sesame Church Remote Door System
-This project was created at my first software internship back in 2014. It utilizes a WIMP stack hosted on a local machine running IIS. The system and mobile application allows regular users to unlock the front doors of the building if connected to the building WiFi, or an admin to unlock the door anywhere with an Internet connection. Usage data is tracked and the users and privileges are sourced from the building personnel directory. 
+This project was created at my first software internship back in 2014. It utilizes a WIMP stack hosted on a local machine running Windows and IIS. The system and mobile application allows regular users to unlock the front doors of the building if connected to the building WiFi, or an admin to unlock the door anywhere with an Internet connection. Usage data is tracked and the users and privileges are sourced from the building personnel directory. 
 
 ## Contents
 AutoIt Scripts  
@@ -9,11 +9,10 @@ SQL Query
 Web Server  
 
 ## Overview
-This README will explain how to set up the environment for the CBCMG Door Control System.
+This README will describe each component of the Door Control System.
 
 ## AutoIt Scripts
-Place the .exe files in a folder of your choosing. The AutoIt v3 Script files are the source files. The .exe's
-select various commands from the Access It! Lite.net door security program located on the door security computer.
+The scripts are used to perform window and mouse commands on the door security application program running on the host machine. 
 
 ## SQL Script
 In Microsoft SQL Server 2012 (or similar), open the SQL script and execute to create the necessary database and tables.
